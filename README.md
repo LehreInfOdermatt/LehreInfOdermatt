@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently in an informatics apprenticeship. 
+- 🦈 I develop ERP-Systems and Progressiv-Web-Apps.
+
 <!--
 **LehreInfOdermatt/LehreInfOdermatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
